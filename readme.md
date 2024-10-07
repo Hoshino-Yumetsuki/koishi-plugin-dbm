@@ -1,5 +1,5 @@
-# koishi-plugin-status-pro
+# koishi-plugin-dbm
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-status-pro?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-status-pro)
+[![npm](https://img.shields.io/npm/v/@q78kg/koishi-plugin-dbm?style=flat-square)](https://www.npmjs.com/package/@q78kg/koishi-plugin-dbm)
 
-status pro
+数据库备份与迁移
